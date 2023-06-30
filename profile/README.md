@@ -1,6 +1,6 @@
 # BIOMEDIN 215 🥼🩺🏥
 
-This organization is a development space for course materials of BIOMEDIN 215: Data-Driven Medicine, a course taught at Stanford University through the Biomedical Informatics graduate program.
+This organization is a development space for course materials of `BIOMEDIN 215: Data-Driven Medicine`, a course taught at Stanford University through the Biomedical Informatics graduate program.
 
 For more information on BIOMEDIN 215, check out: [Stanford Explore Courses🌲 BIOMEDIN 215](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=BIOMEDIN%20215:%20Data%20Driven%20Medicine&academicYear=20142015)
 
