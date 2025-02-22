@@ -1,13 +1,12 @@
-# BIOMEDIN 215 🥼🩺🏥
+# BIOMEDIN 260 🩻
 
-This organization is a development space for course materials of `BIOMEDIN 215: Data-Driven Medicine`, a course taught at Stanford University through the Biomedical Informatics graduate program.
+This organization is a development space for course materials of `BIOMEDIN 260: Computational Methods for Biomedical Image Analysis and Interpretation`, a course taught at Stanford University through the Biomedical Data Science graduate program.
 
-For more information on BIOMEDIN 215, check out: [Stanford Explore Courses🌲 BIOMEDIN 215](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=BIOMEDIN%20215:%20Data%20Driven%20Medicine&academicYear=20142015)
+For more information on BIOMEDIN 260, check out: [Stanford Explore Courses🌲 BIOMEDIN 215](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&q=BIOMEDIN%20260:%20Computational%20Methods%20for%20Biomedical%20Image%20Analysis%20and%20Interpretation)
 
 ## Instructors 🍎
-- [Dr. Nigam Shah, MBBS, PhD](https://profiles.stanford.edu/nigam-shah) is Professor of Medicine at Stanford University, and Chief Data Scientist for Stanford Health Care. His research group analyzes multiple types of health data (EHR, Claims, Wearables, Weblogs, and Patient blogs), to answer clinical questions, generate insights, and build predictive models for the learning health system. At Stanford Healthcare, he leads artificial intelligence and data science efforts for advancing the scientific understanding of disease, improving the practice of clinical medicine, and orchestrating the delivery of health care.
+- [Dr. Mirabela Rusu, PhD](https://profiles.stanford.edu/mirabela-rusu) is an Assistant Professor, in the Department of Radiology, and, by courtesy, Department of Urology and Biomedical Data Science, at Stanford University, where she leads the Personalized Integrative Medicine Laboratory (PIMed). The PIMed Laboratory has a multi-disciplinary direction and focuses on developing analytic methods for biomedical data integration, with a particular interest in radiology-pathology fusion to facilitate radiology image labeling. The radiology-pathology fusion allows the creation of detailed spatial labels, that later on can be used as input for advanced machine learning, such as deep learning. The recent focus of the lab has been on applying deep learning methods to detect and differentiate aggressive from indolent prostate cancers on MRI using the pathology information (both labels and the image content), work that was recently published in Medical Physics and Medical Image Analysis Journals. Moreover, our project are interested in further develop these approaches for ultrasound images.
 
-- [Alison Callahan, PhD](https://profiles.stanford.edu/alison-callahan) is an Instructor in the Center for Biomedical Informatics and Clinical Data Scientist in the Stanford Health Care Data Science team led by Nigam Shah. Her current research uses informatics to expand and improve the data available about pregnancy and birth and to develop and maintain an EHR-derived obstetric database. She is also the co-leader of the OHDSI Perinatal & Reproductive Health (PRHeG) working group. Her work in the SHC Data Science team focuses on developing and implementing methods to assess and identify high-value applications of machine learning in healthcare settings.
 
-## Course Website 🔗
-[https://shahlab.stanford.edu/biomedin215/](https://shahlab.stanford.edu/biomedin215)
+## Other courses
+- [BIOMEDIN 215](https://github.com/biomedin-215)
